@@ -7,7 +7,7 @@ documentation = "https://docs.rs/bevy-spnavd"
 repository = "https://github.com/ISimon33I/bevy-spnavd"
 license = "MIT OR Apache-2.0"
 keywords = ["bevy", "spacemouse", "spnav", "input"]
-categories = ["game-development", "graphics", "cad"]
+categories = ["game-development", "graphics"]
 
 [dependencies]
 bevy = { version = "0.20.0", default-features = false }
