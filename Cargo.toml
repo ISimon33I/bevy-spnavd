@@ -1,0 +1,9 @@
+[package]
+name = "bevy-spnavd"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bevy = "0.20.0"
+spnav-rs = "0.1.1"
+tokio = "1.53.2"
