@@ -9,7 +9,7 @@ use tokio::sync::mpsc;
 // Plugin
 // ============================================================================
 
-/// Bevy plugin for 3Dconnexion SpaceMouse via spnavd.
+/// Bevy plugin for SpaceMouse via spnavd.
 pub struct SpnavdPlugin;
 
 impl Plugin for SpnavdPlugin {
